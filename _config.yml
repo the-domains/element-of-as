@@ -1,15 +1,30 @@
+name: Element Of As
+favicon: null
 layout_spectrum: 0.11599253956228495
 typography_spectrum: 0.2372270943596959
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f382ffc6-44b2-429a-89b9-053e7fd59648.jpg'
+title: This is the site title
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.9911119360476732
-  lightness: 0.7965806082356721
-  saturation: 0.42660231119953096
-  rhythmicContrast: 0.6362424953840673
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-name: Element Of As
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f382ffc6-44b2-429a-89b9-053e7fd59648.jpg'
+  brandStrength: 0.9911119360476732
+  lightness: 0.7965806082356721
+  saturation: 0.42660231119953096
+  rhythmicContrast: 0.6362424953840673
+purpose: []
