@@ -1,14 +1,14 @@
 layout_spectrum: 0.11599253956228495
 typography_spectrum: 0.2372270943596959
 color:
-  brandStrength: 0.9847365943714976
-  lightness: 0.6741714200470597
-  saturation: 0.4445612377021462
-  rhythmicContrast: 0.4140578811056912
+  brandStrength: 0.9911119360476732
+  lightness: 0.7965806082356721
+  saturation: 0.42660231119953096
+  rhythmicContrast: 0.6362424953840673
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Element Of As
